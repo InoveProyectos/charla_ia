@@ -15,13 +15,13 @@ En esta charla se habla sobre dos ramas de la inteligencia artificial:
 #### Machine Learning (aprendizaje automático)
 Es la rama que estudia cómo realizar programas que puedan aprender de los datos, es decir, que puedan generalizar. El proceso de generalización es poder inducir una regla o dato desconocido a partir de ejemplos pasados. Es una herramienta que permite utilizar experiencia pasada para la toma de decisiones futuras.
 
-![machinelearning](images/machinelarning.jpg)
+![machinelearning](images/machinelearning.jpg)
 
 #### Deep Learning (aprendizaje profundo)
 El Deep Learning o aprendizaje profundo es un subcampo el cual utiliza distintas estructuras de redes neuronales para lograr representaciones de los datos cada vez más significativas.\
 El Deep Learning hace referencia a la cantidad de capas internas de redes neuronales que se utilizan en el modelo, las cuales suelen ser decenas o incluso cientos de capas de representación. El hecho de ser una red neuronal formada por muchas capas internas posibilita aprender automáticamente las características del problema a medida que el modelo es entrenado con los datos.
 
-![deeplearning](images/deeplearning.jpg)
+![deeplearning](images/deeplearning.png)
 
 # Ejemplos de prueba 🔧⚙️
 Todos los ejemplos están realizados en jupyter notebooks, pueden ser ejecutados en un jupyter local o en colab:\
