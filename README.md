@@ -25,7 +25,7 @@ El Deep Learning hace referencia a la cantidad de capas internas de redes neuron
 
 # Ejemplos de prueba 🔧⚙️
 Todos los ejemplos están realizados en jupyter notebooks, pueden ser ejecutados en un jupyter local o en colab:\
-- [predicciond de alquiler](https://github.com/InoveProyectos/charla_ia_ieee/blob/master/1_prediccion_alquiler.ipynb)
+- [predicción de alquiler](https://github.com/InoveProyectos/charla_ia_ieee/blob/master/1_prediccion_alquiler.ipynb)
 - [Detección de estrés en el ritmo cardíaco](https://github.com/InoveProyectos/charla_ia_ieee/blob/master/2_Clasificador_de_stress_autom%C3%A1tico_con_Machine_Learning.ipynb)
 - [Diagnóstico de pacientes por sus dolencias.ipynb](https://github.com/InoveProyectos/charla_ia_ieee/blob/master/3_Predictor_de_diagn%C3%B3stico_de_un_paciente_por_sus_dolencias.ipynb)
 - [Determinar la presencia de COVID en radiografías de tórax](https://github.com/InoveProyectos/charla_ia_ieee/blob/master/4_Detecci%C3%B3n_de_COVID_en_pulmones.ipynb)
@@ -38,13 +38,6 @@ Todos los ejemplos están realizados en jupyter notebooks, pueden ser ejecutados
 - Scikit-learn (https://scikit-learn.org/)
 - Keras (https://keras.io/)
 
-
-# Capturas :camera:
-Pantalla de monitoreo:
-
-
-Pantalla de registro:
-![registro](static/media/registerexample.jpeg)
 
 # Autores ✒️
 ### Miembros de Inove (coding school)
